@@ -1,3 +1,2 @@
-# Programming principles and practice using c++ 
-## Bjarne Stroustrup
-Practice problems from the book
+#Practice problems from the book:
+## Programming principles and practice using c++ by Bjarne Stroustrup
